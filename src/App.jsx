@@ -1,9 +1,10 @@
+import { SuscriptionApp } from "./components/SuscriptionApp"
 
 function App() {
 
   return (
     <>
-      Mi aplication 
+      <SuscriptionApp/>
     </>
   )
 }
